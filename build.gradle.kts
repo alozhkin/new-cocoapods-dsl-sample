@@ -20,6 +20,6 @@ kotlin {
 
     cocoapods {
         noPodspec()
-        podfile = projectDir.resolve("ios-app/Podfile")
+//        podfile = projectDir.resolve("ios-app/Podfile")
     }
 }
